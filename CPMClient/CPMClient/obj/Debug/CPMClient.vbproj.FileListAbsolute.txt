@@ -1,0 +1,1 @@
+C:\Works\SWGit\CatalogPhotoManager\CPMClient\CPMClient\bin\Debug\CPMClient.exe.config
